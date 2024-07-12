@@ -28,8 +28,8 @@ A simple calculator application built using Tkinter in Python. This calculator s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/tkinter-calculator.git
-   cd tkinter-calculator
+   git clone https://github.com/your-username/tkinter_python.git
+   cd tkinter_python
    ```
 
 2. **Ensure you have the required dependencies:**
@@ -41,7 +41,7 @@ A simple calculator application built using Tkinter in Python. This calculator s
 
 ## Usage
 
-1. **Run the script:**
+1. **Run the script: calculator_w_Python.ipynb
 2. **Interact with the Calculator:**
    - Use the buttons to enter numbers and arithmetic operations.
    - Press `=` to evaluate the expression.
